@@ -686,22 +686,7 @@ ansible all -m ping
 
 ---
 
-# 9. Ansible Learning Roadmap
-
-Recommended learning sequence:
-
-| Module | Topics | Status |
-|---|---|---|
-| 1. Ansible Fundamentals | Configuration, localhost, inventory, grouping | Completed |
-| 2. Ad-Hoc Commands | Modules, arguments, targeting hosts | Upcoming |
-| 3. Ansible Playbooks | YAML, tasks, plays, variables, facts | Pending |
-| 4. Advanced Playbooks | Handlers, templates, roles, tags, error handling | Pending |
-| 5. Ansible Security | Ansible Vault, SSH authentication | Pending |
-| 6. Cloud Automation | AWS dynamic inventory, Terraform integration | Pending |
-| 7. CI/CD Integration | Jenkins and GitHub Actions | Pending |
-| 8. Real-World Projects | Server configuration and application deployment | Pending |
-
-## 10. Recommended Real-World Project
+## 09. Recommended Real-World Project
 
 **Terraform + Ansible + AWS**
 
@@ -719,5 +704,3 @@ This project connects infrastructure provisioning, configuration management, and
 ---
 
 **End of Ansible Fundamentals Notes**
-
-Next Module: Ansible Ad-Hoc Commands.
